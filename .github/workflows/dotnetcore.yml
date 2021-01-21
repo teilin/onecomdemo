@@ -23,4 +23,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: One.comDemo
-        path: /home/runner/work/onecomdemo/onecomdemo/WebApp2/bin/Release/net5.0/linux-x64/publish/
+        path: /home/runner/work/onecomdemo/onecomdemo/bin/Release/net5.0/linux-x64/publish/
