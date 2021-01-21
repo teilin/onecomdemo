@@ -2,7 +2,7 @@ name: .Net Core
 
 on:
   push:
-    branches: [main]
+    branches: [dev]
 
 jobs:
   build:
